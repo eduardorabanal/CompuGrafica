@@ -1,1 +1,1 @@
-Buenos días
+Repositorio para Computación Gráfica y Visual
