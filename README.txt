@@ -1,1 +1,2 @@
-Repositorio para Computación Gráfica y Visual
+Repositorio para Computación Gráfica y Visual.
+Eduardo Rabanal Rojas
