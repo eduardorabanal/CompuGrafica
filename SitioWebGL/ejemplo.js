@@ -1,7 +1,5 @@
 alert("JavaScript es bacán");
-
-
-            var escena;
+b           var escena;
             var camara;
             var render;
 
