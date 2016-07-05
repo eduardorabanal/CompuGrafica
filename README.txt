@@ -1,2 +1,2 @@
-Repositorio para ComputaciÛn Gr·fica y Visual.
-Eduardo Rabanal Rojas
+Repositorio para el curso de Computaci√≥n Gr√°fica y Visual.
+No todo el material es de mi autor√≠a.
